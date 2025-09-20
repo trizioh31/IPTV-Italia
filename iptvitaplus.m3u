@@ -27,8 +27,10 @@ https://d31mw7o1gs0dap.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68
 https://viamotionhsi.netplus.ch/live/eds/rsila1hd/browser-HLS8/rsila1hd.m3u8
 #EXTINF:-1 tvg-id="RSILa2.ch" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f4/RSI_La_2_2012.svg/512px-RSI_La_2_2012.svg.png" group-title="RSI",RSI La2
 https://viamotionhsi.netplus.ch/live/eds/rsila2hd/browser-HLS8/rsila2hd.m3u8
-#EXTINF:-1 tvg-id="VideoNovara.it" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/1f/Logo_Videonovara.png" group-title="Undefined",VideoNovara
+#EXTINF:-1 tvg-id="VideoNovara.it" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/1f/Logo_Videonovara.png" group-title="Novara",VideoNovara
 https://wb.top-ix.org/redirect/avtvlive/videonovara/streaming?type=m3u8
+#EXTINF:-1 tvg-id="OndaNovara.it" tvg-logo="https://www.local-tv.it/uploads/jpg/1f259c0931030912394e630aba3ae0b8.jpg" group-title="Novara",OndaNovara
+https://585b674743bbb.streamlock.net:443/9006/9006/playlist.m3u8
 #EXTINF:-1 tvg-id="20Mediaset.it" tvg-chno="20" tvg-logo="https://cdn.jsdelivr.net/gh/Tundrak/IPTV-Italia/logos/20mediaset.png" group-title="Mediaset",20 Mediaset
 #EXTVLCOPT:http-user-agent=HbbTV/1.6.1
 https://live03-col.msf.cdn.mediaset.net/live/ch-lb/lb-clr.isml/manifest.mpd
